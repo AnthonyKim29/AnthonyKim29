@@ -4,7 +4,7 @@
 - 📫 How to reach me | Email: [Placeholder] 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnthonyKim29/AnthonyKim29/main/Images/Header.png" alt="DeKalb Gwinnett Header">
+  <img src="https://raw.githubusercontent.com/AnthonyKim29/Portfolio/main/Images/Header.png" alt="DeKalb Gwinnett Header">
 </p>
 
 
